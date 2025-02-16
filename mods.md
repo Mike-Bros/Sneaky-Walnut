@@ -92,9 +92,12 @@ Mods that introduce new mechanics, automation, and world-altering features.
 - **[Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails?version=1.20.1&loader=fabric)**
 	- [Download](https://cdn.modrinth.com/data/ZzjhlDgM/versions/VFhdqLko/Steam_Rails-1.6.9%2Bfabric-mc1.20.1.jar)
 	- Expands on the create railway system.
-- **[Custom Planes](https://modrinth.com/datapack/plane-mod)**
-    - [Download](https://cdn.modrinth.com/data/apPWR9Ak/versions/Qx4n2irW/plane-mod-1.20-B.jar)
-    - A datapack that adds functional planes to Minecraft for transportation and exploration.
+- **[Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft?version=1.20.1&loader=fabric)**
+	- [Download](https://cdn.modrinth.com/data/x3HZvrj6/versions/ExqueSy3/immersive_aircraft-1.1.8%2B1.20.1-fabric.jar)
+- **[Man of Many Planes](https://modrinth.com/mod/man-of-many-planes?version=1.20.1&loader=fabric)**
+	- [Download](https://cdn.modrinth.com/data/9qdTHi0q/versions/BiO2Uv4J/man_of_many_planes-0.2.0%2B1.20.1-fabric.jar)
+- **[Create Man of Many Planes](https://modrinth.com/datapack/create-man-of-many-planes?version=1.20.1&loader=fabric)**
+	- [Download](https://cdn.modrinth.com/data/F4Rdk2PX/versions/XUkRA6F4/create-man-of-many-planes-1.0.jar)
 - **[Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)**
     - [Download](https://cdn.modrinth.com/data/XZNI4Cpy/versions/V3qjjiMa/toms_storage_fabric-1.20-1.7.0.jar)
     - A simple and scalable storage system with item sorting and automation features.
