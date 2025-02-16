@@ -38,15 +38,21 @@ These mods enhance server management, improve performance, and provide essential
 - **[Liberty's Villagers](https://modrinth.com/mod/libertyvillagers)**
     - [Download](https://cdn.modrinth.com/data/264clomZ/versions/G1d5kL8m/liberty-villagers-mod-1.0.15.1%2Bfabric%2B1.20.1.jar)
     - Quality of Life improvements settings for Villagers
-- [Compact Help Command](https://modrinth.com/mod/compact-help-command)
+- **[Compact Help Command](https://modrinth.com/mod/compact-help-command)**
     - [Download](https://cdn.modrinth.com/data/XdiGl7ZL/versions/5WqQwFiT/compacthelpcommand-1.20.1-2.7.jar)
     - The long list of commands from `help` is sorted and split into pages.
-- [Ledger](https://modrinth.com/mod/ledger)
+- **[Ledger](https://modrinth.com/mod/ledger)**
     - [Download](https://cdn.modrinth.com/data/LVN9ygNV/versions/pOxgWfwI/ledger-1.2.8.jar)
     - A server side logging mod
-- [Sophisticated Core (Unofficial Fabric port)](https://modrinth.com/mod/sophisticated-core-(unofficial-fabric-port))
+- **[Sophisticated Core (Unofficial Fabric port)](https://modrinth.com/mod/sophisticated-core-(unofficial-fabric-port))**
     - [Download](https://cdn.modrinth.com/data/9jxwkYQL/versions/KrzdxAak/sophisticatedcore-1.20.1-1.0.8.1.119.jar)
     - Required library for backpack mod.
+- **[Styled Chat](https://modrinth.com/mod/styled-chat?version=1.20.1&loader=fabric)**
+	- [Download](https://modrinth.com/mod/styled-chat?version=1.20.1&loader=fabric)
+	- Allows server to change how chat looks.
+- **[Geckolib](https://modrinth.com/mod/geckolib)**
+	- [Download](https://cdn.modrinth.com/data/8BmcQJ2H/versions/DAY9559u/geckolib-fabric-1.20.1-4.7.jar)
+	- Animation and rendering engine used by Wildlife
 ---
 
 ## **🎮 Core Gameplay & World Enhancements**
@@ -73,9 +79,19 @@ Mods that introduce new mechanics, automation, and world-altering features.
     - Adds more tools and methods to handle experience & enchantment in Create.
 - **[Create Contraption Terminals](https://modrinth.com/mod/create-contraption-terminals)**
     - [Download](https://cdn.modrinth.com/data/gOPAFzp0/versions/TymTJZew/createcontraptionterminals-fabric-1.20-1.1.0.jar)
+    - Allows using Tom's Simple Storage Terminals and Create.
 - **[Create: Power Loader (Fabric)](https://modrinth.com/mod/create-power-loader-fabric)**
     - [Download](https://cdn.modrinth.com/data/E9MuZ1zB/versions/fHsTW7eS/create_power_loader-1.5.3-mc1.20.1-fabric.jar)
     - Adds immersive andesite and brass chunk loaders.
+- **[Create: Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires)**
+	- [Download](https://cdn.modrinth.com/data/JmybsfWs/versions/Knv9sBsR/create_dd-0.1d.jar)
+	- Adds QOL items and blocks to create.
+- **[Create: Crystal Clear](https://modrinth.com/mod/create-crystal-clear)**
+	- [Download](https://cdn.modrinth.com/data/h7QgiH72/versions/jCoGpP8a/Crystal-Clear-2.1-Beta-fabric.jar)
+	- Adds glass casings to create.
+- **[Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails?version=1.20.1&loader=fabric)**
+	- [Download](https://cdn.modrinth.com/data/ZzjhlDgM/versions/VFhdqLko/Steam_Rails-1.6.9%2Bfabric-mc1.20.1.jar)
+	- Expands on the create railway system.
 - **[Custom Planes](https://modrinth.com/datapack/plane-mod)**
     - [Download](https://cdn.modrinth.com/data/apPWR9Ak/versions/Qx4n2irW/plane-mod-1.20-B.jar)
     - A datapack that adds functional planes to Minecraft for transportation and exploration.
@@ -85,6 +101,12 @@ Mods that introduce new mechanics, automation, and world-altering features.
 - **[Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)**
     - [Download](https://cdn.modrinth.com/data/7vxePowz/versions/NWzHJ5wB/FarmersDelight-1.20.1-2.2.6%2Brefabricated.jar)
     - Expands the farming experience by adding new crops, meals, and cooking mechanics.
+- **[Friends & Foes](https://modrinth.com/mod/friends-and-foes)**
+	- [Download](https://cdn.modrinth.com/data/POQ2i9zu/versions/90ZDpSw0/friendsandfoes-fabric-mc1.20.1-3.0.7.jar)
+	-  Adds outvoted and forgotten mobs from the mob vote!
+- **[Wildlife](https://modrinth.com/mod/wildlife-fabric)**
+	- [Download](https://cdn.modrinth.com/data/gkVIACVj/versions/QmXRyhus/wildlife-1.20.1-2.2.jar)
+	- Adds
 
 ---
 
@@ -134,6 +156,12 @@ These mods improve small aspects of the game, making it more user-friendly and e
 - **[Sophisticated Backpacks (Unoffical Fabric port)](https://modrinth.com/mod/sophisticated-backpacks-(unoffical-fabric-port))**
     - [Download](https://cdn.modrinth.com/data/ouNrBQtq/versions/g7vm5J1t/sophisticatedbackpacks-1.20.1-3.21.2.1.81.jar)
     - A hopefully better backpack mode than Traveler's
+- **[Attack Through Grass](https://modrinth.com/mod/attack-through-grass)**
+	- [Download](https://cdn.modrinth.com/data/OKM2WWl3/versions/lRzkzOyy/atg-2.0.2%2B1.20.1.jar)
+	- Does exactly what is says, thank god
+- **[Improved Sign Editing](https://modrinth.com/mod/improved-sign-editing)**
+	- [Download](https://modrinth.com/mod/improved-sign-editing)
+	- Whenever text is typed on a sign, and the next word doesn't fit, it automatically shifts to the next line.
 
 ---
 
@@ -169,5 +197,8 @@ Other useful mods that provide additional utility and features.
 - **[Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen?version=1.20.1&loader=fabric)**
     - [Download](https://cdn.modrinth.com/data/BwFQLeCh/versions/olYha9Cw/customsplashscreen-2.1.1.jar)
     - Allows you to completely change the minecraft splash screen.
+- **[Patchouli](https://modrinth.com/mod/patchouli)**
+	- [Download](https://cdn.modrinth.com/data/nU0bVIaL/versions/Muu5nGmj/Patchouli-1.20.1-84.1-FABRIC.jar)
+	- Allows the creation of a custom menu/questline/guidebook for the server.
 
 ---
