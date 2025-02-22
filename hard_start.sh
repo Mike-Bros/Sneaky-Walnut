@@ -16,6 +16,34 @@ rm -rf "$MODS_DIR"/*
 # Define the list of mods with their download URLs and filenames
 declare -A mods
 mods=(
+    ["cristellib-1.1.5-fabric.jar"]="https://cdn.modrinth.com/data/cl223EMc/versions/tBnivdbu/cristellib-1.1.5-fabric.jar"
+    ["bclib-3.0.14.jar"]="https://cdn.modrinth.com/data/BgNRHReB/versions/TPC86Pyz/bclib-3.0.14.jar"
+    ["Towns-and-Towers-1.12-FabricForge.jar"]="https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar"
+    ["better-end-4.0.11.jar"]="https://cdn.modrinth.com/data/gc8OEnCC/versions/7QwyTILr/better-end-4.0.11.jar"
+    ["sleepwarp-2.2.0-rc1-1.20.1.jar"]="https://cdn.modrinth.com/data/OPvzuqtZ/versions/l4cnghUz/sleepwarp-2.2.0_rc1%2B1.20.1.jar"
+    ["resourcefullib-fabric-1.20.1-2.1.29.jar"]="https://cdn.modrinth.com/data/G1hIVOrD/versions/UOdaYbhh/resourcefullib-fabric-1.20.1-2.1.29.jar"
+    ["athena-fabric-1.20.1-3.1.2.jar"]="https://cdn.modrinth.com/data/b1ZV3DIJ/versions/mXJWSwbJ/athena-fabric-1.20.1-3.1.2.jar"
+    ["chipped-fabric-1.20.1-3.0.7.jar"]="https://cdn.modrinth.com/data/BAscRYKm/versions/pwyEaKDs/chipped-fabric-1.20.1-3.0.7.jar"
+    ["trowel-1.3.0-1.20.jar"]="https://cdn.modrinth.com/data/o8YrbYfv/versions/ZkkpGUSH/trowel-1.3.0-1.20.jar"
+    ["createdeco-2.0.2-1.20.1-fabric.jar"]="https://cdn.modrinth.com/data/sMvUb4Rb/versions/GsxgfeNu/createdeco-2.0.2-1.20.1-fabric.jar"
+    ["bellsandwhistles-0.4.5-1.20.1-fabric.jar"]="https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar"
+    ["trade-cycling-fabric-1.20.1-1.0.17.jar"]="https://cdn.modrinth.com/data/qpPoAL6m/versions/kkpp7peL/trade-cycling-fabric-1.20.1-1.0.17.jar"
+    ["mcw-stairs-1.0.1-1.20.1fabric.jar"]="https://cdn.modrinth.com/data/iP3wH1ha/versions/XNlrOt9m/mcw-stairs-1.0.1-1.20.1fabric.jar"
+    ["mcw-paintings-1.0.5-1.20.1fabric.jar"]="https://cdn.modrinth.com/data/okE6QVAY/versions/CwHvP3Pz/mcw-paintings-1.0.5-1.20.1fabric.jar"
+    ["mcw-lights-1.1.1-mc1.20.1fabric.jar"]="https://cdn.modrinth.com/data/w4an97C2/versions/D8iZj41A/mcw-lights-1.1.1-mc1.20.1fabric.jar"
+    ["mcw-paths-1.0.5-1.20.1fabric.jar"]="https://cdn.modrinth.com/data/VRLhWB91/versions/vusBu5Up/mcw-paths-1.0.5-1.20.1fabric.jar"
+    ["mcw-trapdoors-1.1.4-mc1.20.1fabric.jar"]="https://cdn.modrinth.com/data/n2fvCDlM/versions/6FBIUQpW/mcw-trapdoors-1.1.4-mc1.20.1fabric.jar"
+    ["mcw-roofs-2.3.1-mc1.20.1fabric.jar"]="https://cdn.modrinth.com/data/B8jaH3P1/versions/EOjhPmTj/mcw-roofs-2.3.1-mc1.20.1fabric.jar"
+    ["mcw-bridges-3.0.0-mc1.20.1fabric.jar"]="https://cdn.modrinth.com/data/GURcjz8O/versions/RmsMXs3r/mcw-bridges-3.0.0-mc1.20.1fabric.jar"
+    ["mcw-doors-1.1.2-mc1.20.1fabric.jar"]="https://cdn.modrinth.com/data/kNxa8z3e/versions/HU3H8NiB/mcw-doors-1.1.2-mc1.20.1fabric.jar"
+    ["mcw-windows-2.3.0-mc1.20.1fabric.jar"]="https://cdn.modrinth.com/data/C7I0BCni/versions/88sYNcv4/mcw-windows-2.3.0-mc1.20.1fabric.jar"
+    ["mcw-furniture-3.3.0-mc1.20.1fabric.jar"]="https://cdn.modrinth.com/data/dtWC90iB/versions/7aTbV3Sq/mcw-furniture-3.3.0-mc1.20.1fabric.jar"
+    ["mcw-fences-1.1.2-mc1.20.1fabric.jar"]="https://cdn.modrinth.com/data/GmwLse2I/versions/NxAYnOkJ/mcw-fences-1.1.2-mc1.20.1fabric.jar"
+    ["DiagonalWalls-v8.0.4-1.20.1-Fabric.jar"]="https://cdn.modrinth.com/data/FQgc8dib/versions/uAsQHTvk/DiagonalWalls-v8.0.4-1.20.1-Fabric.jar"
+    ["DiagonalWindows-v8.1.5-1.20.1-Fabric.jar"]="https://cdn.modrinth.com/data/oOi0CKes/versions/mwIl45jn/DiagonalWindows-v8.1.5-1.20.1-Fabric.jar"
+    ["DiagonalFences-v8.1.5-1.20.1-Fabric.jar"]="https://cdn.modrinth.com/data/IKARgflD/versions/eJNY2Ah4/DiagonalFences-v8.1.5-1.20.1-Fabric.jar"
+    ["create_ultimate_factory-1.9.0-fabric-1.20.1.jar"]="https://cdn.modrinth.com/data/N9QToVpw/versions/ilaQZdXE/create_ultimate_factory-1.9.0-fabric-1.20.1.jar"
+    ["create-deepslate-processing-2.0.1-fabric-1.20.1.jar"]="https://cdn.modrinth.com/data/eV1eX9u6/versions/RsTFIBzU/create_deepslate_processing-2.0.1%2Bfabric-1.20.1.jar"
     ["antientitygrief-1.0.6-1.20.jar"]="https://cdn.modrinth.com/data/Q8G7ff3j/versions/ifATPmO0/antientitygrief-1.0.6-1.20.jar"
     ["architectury-9.2.14-fabric.jar"]="https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar"
     ["automaticdoors-1.20.1-4.9.jar"]="https://cdn.modrinth.com/data/PGBgocFc/versions/ZbVN9hr6/automaticdoors-1.20.1-4.9.jar"
@@ -64,7 +92,6 @@ mods=(
     ["sophisticatedcore-1.20.1-1.0.8.1.119.jar"]="https://cdn.modrinth.com/data/9jxwkYQL/versions/KrzdxAak/sophisticatedcore-1.20.1-1.0.8.1.119.jar"
     ["sophisticatedbackpacks-1.20.1-3.21.2.1.81.jar"]="https://cdn.modrinth.com/data/ouNrBQtq/versions/g7vm5J1t/sophisticatedbackpacks-1.20.1-3.21.2.1.81.jar"
 )
-
 
 # Array to store failed downloads
 failed_downloads=()
