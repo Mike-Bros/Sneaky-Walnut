@@ -98,6 +98,7 @@ Add new mobs, animals, and environmental features.
 
 Travel and transport with planes and new vehicles.
 
+- [Automobility](https://modrinth.com/mod/automobility) - Feature-incomplete mod adding vehicles.
 - [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) – Adds flyable planes.
 - [Man of Many Planes](https://modrinth.com/mod/man-of-many-planes) – Adds new aircraft.
 - [Create Man of Many Planes](https://modrinth.com/mod/create-man-of-many-planes) – Create integration with aviation features.
@@ -134,17 +135,14 @@ Reduce grind and enhance everyday gameplay.
 - [Villager In A Bucket](https://modrinth.com/mod/villager-in-a-bucket) – Portable villager transport.
 - [Villager Names](https://modrinth.com/mod/villager-names-serilum) – Randomized villager names.
 - [Your Items Are Safe](https://modrinth.com/mod/your-items-are-safe) – Prevents item despawning after death.
-- [Controllermod](https://modrinth.com/mod/controllermod) – Enables full controller support, allowing players to navigate menus and play using game controllers.
+- [Sleep](https://modrinth.com/datapack/sleep) -  Manages multiple sleep properties for the server.
+
 
 ### 🌅 Visual Enhancements 
 
 Improve graphics, shaders, and visual fidelity. 
 
 - [Iris Shaders](https://modrinth.com/mod/iris) – Enhances Minecraft’s graphics by providing full support for shaders while maintaining performance.
-
-### 💤 Sleep & Time Management
-
-- [Sleep Warp](https://modrinth.com/mod/sleep-warp) – Speeds up time during sleep, allowing faster transitions to morning.
 
 ---
 
