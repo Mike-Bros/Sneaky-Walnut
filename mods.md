@@ -25,6 +25,7 @@ Manage commands and player actions efficiently.
 
 - [Compact Help Command](https://modrinth.com/mod/compact-help-command) – Paginated and organized `/help` command.
 - [Essential Commands](https://modrinth.com/mod/essential-commands) – Teleportation, home setting, and permissions commands.
+- [Fast Backups](https://modrinth.com/mod/fastback?version=1.20.1&loader=fabric) - Incremental world backups.
 - [Ledger](https://modrinth.com/mod/ledger) – Server-side logging and activity tracking.
 - [Trade Cycling](https://modrinth.com/mod/trade-cycling) – Allows players to cycle through villager trades easily.
 
@@ -130,12 +131,13 @@ Reduce grind and enhance everyday gameplay.
 - [Improved Sign Editing](https://modrinth.com/mod/improved-sign-editing) – Auto line-wrap for signs.
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) – Advanced inventory management.
 - [Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone) – Fast leaf removal after chopping.
+- [MidnightControls](https://modrinth.com/mod/midnightcontrols) - Add controller support.
 - [Sophisticated Backpacks (Unofficial Fabric port)](https://modrinth.com/mod/sophisticated-backpacks-(unoffical-fabric-port)) – Expanded backpack features.
 - [Vein Mining](https://modrinth.com/mod/vein-mining) – Mine entire ore veins in one go.
 - [Villager In A Bucket](https://modrinth.com/mod/villager-in-a-bucket) – Portable villager transport.
 - [Villager Names](https://modrinth.com/mod/villager-names-serilum) – Randomized villager names.
 - [Your Items Are Safe](https://modrinth.com/mod/your-items-are-safe) – Prevents item despawning after death.
-- [Sleep](https://modrinth.com/datapack/sleep) -  Manages multiple sleep properties for the server.
+- [Server Sleep](https://modrinth.com/datapack/serversleep?version=1.20.1&loader=fabric) - The simplest server sleep mod available.
 
 
 ### 🌅 Visual Enhancements 

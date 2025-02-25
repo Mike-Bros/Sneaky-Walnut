@@ -16,12 +16,14 @@ rm -rf "$MODS_DIR"/*
 # Define the list of mods with their download URLs and filenames
 declare -A mods
 mods=(
+    ["packetfixer-fabric-2.0.0-1.19-to-1.20.1.jar"]="https://cdn.modrinth.com/data/c7m1mi73/versions/6jZ3HyVn/packetfixer-fabric-2.0.0-1.19-to-1.20.1.jar"
     ["cristellib-1.1.5-fabric.jar"]="https://cdn.modrinth.com/data/cl223EMc/versions/tBnivdbu/cristellib-1.1.5-fabric.jar"
+    ["fastback-0.15.6-1.20.1-fabric.jar"]="https://cdn.modrinth.com/data/ZHKrK8Rp/versions/Q8JSGhdj/fastback-0.15.6%2B1.20.1-fabric.jar"
     ["bclib-3.0.14.jar"]="https://cdn.modrinth.com/data/BgNRHReB/versions/TPC86Pyz/bclib-3.0.14.jar"
     ["Towns-and-Towers-1.12-FabricForge.jar"]="https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar"
     ["better-end-4.0.11.jar"]="https://cdn.modrinth.com/data/gc8OEnCC/versions/7QwyTILr/better-end-4.0.11.jar"
     ["automobility-0.4.2-1.20.1-fabric.jar"]="https://cdn.modrinth.com/data/rqIsPf9F/versions/G97BY8OB/automobility-0.4.2%2B1.20.1-fabric.jar"
-    ["sleep-v.2.1.2.jar"]="https://cdn.modrinth.com/data/WTzuSu8P/versions/R5tblQON/sleep-v.2.1.2.jar"
+    ["serversleep-datapack.jar"]="https://cdn.modrinth.com/data/Cw8IlnGM/versions/2LFCQnd1/serversleep-datapack.jar"
     ["resourcefullib-fabric-1.20.1-2.1.29.jar"]="https://cdn.modrinth.com/data/G1hIVOrD/versions/UOdaYbhh/resourcefullib-fabric-1.20.1-2.1.29.jar"
     ["athena-fabric-1.20.1-3.1.2.jar"]="https://cdn.modrinth.com/data/b1ZV3DIJ/versions/mXJWSwbJ/athena-fabric-1.20.1-3.1.2.jar"
     ["chipped-fabric-1.20.1-3.0.7.jar"]="https://cdn.modrinth.com/data/BAscRYKm/versions/pwyEaKDs/chipped-fabric-1.20.1-3.0.7.jar"
@@ -49,7 +51,6 @@ mods=(
     ["architectury-9.2.14-fabric.jar"]="https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar"
     ["automaticdoors-1.20.1-4.9.jar"]="https://cdn.modrinth.com/data/PGBgocFc/versions/ZbVN9hr6/automaticdoors-1.20.1-4.9.jar"
     ["bluemap-5.3.jar"]="https://cdn.modrinth.com/data/swbUV1cr/versions/lHRktt6S/BlueMap-5.3-fabric-1.20.jar"
-    ["calcmod-1.3.0.jar"]="https://cdn.modrinth.com/data/XoHTb2Ap/versions/Ma4inj0t/calcmod-fabric-1.20-1.3.0.jar"
     ["cardinal-components-api-5.2.3.jar"]="https://cdn.modrinth.com/data/K01OU20C/versions/Ielhod3p/cardinal-components-api-5.2.3.jar"
     ["chunky-1.3.146.jar"]="https://cdn.modrinth.com/data/fALzjamp/versions/NHWYq9at/Chunky-1.3.146.jar"
     ["collective-1.20.1-7.91.jar"]="https://cdn.modrinth.com/data/e0M1UDsY/versions/kRVILcx8/collective-1.20.1-7.91.jar"
