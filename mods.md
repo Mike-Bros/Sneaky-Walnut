@@ -45,6 +45,7 @@ Enhance entity behaviors and player interactions.
 - [Anti Entity Grief](https://modrinth.com/mod/anti-entity-grief) – Prevents entity-based griefing.
 - [Doors Closed](https://modrinth.com/mod/doors-closed) – Villagers automatically close doors.
 - [Liberty's Villagers](https://modrinth.com/mod/libertyvillagers) – Adds villager quality-of-life improvements.
+- [Trading Post](https://modrinth.com/mod/trading-post) – Adds a trading post block that allows players to access all nearby villager trades in one convenient interface.
 
 ### 💬 Chat & Interface Enhancements
 
@@ -66,6 +67,7 @@ Expand the Create mod’s automation and mechanical systems.
 
 - [Create Fabric](https://modrinth.com/mod/create-fabric) – Mechanical automation and contraptions.
 - [Create: Contraption Terminals](https://modrinth.com/mod/create-contraption-terminals) – Storage terminal integration.
+- [Create: Copper & Zinc](https://modrinth.com/mod/create-copper-zinc) – Expands the Create mod by adding copper and zinc variants for various components, improving material diversity and aesthetics.
 - [Create: Crystal Clear](https://modrinth.com/mod/create-crystal-clear) – Adds glass casings.
 - [Create: Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires) – Quality-of-life items for Create.
 - [Create: Enchantment Industry Fabric](https://modrinth.com/mod/create-enchantment-industry-fabric) – Automates experience and enchanting.
@@ -78,6 +80,13 @@ Expand the Create mod’s automation and mechanical systems.
 - [Create: Deepslate Processing](https://modrinth.com/mod/create-deepslate-processing) – Adds machines for automated deepslate processing in the Create mod.
 - [Create: Ultimate Factory](https://modrinth.com/mod/create-ultimate-factory) – Expands Create with advanced factory machinery and production lines.
 - [Create Deco](https://modrinth.com/mod/create-deco) – Decorative blocks and aesthetic enhancements themed around Create’s machinery.
+- [Create: Broken Bad (Fabric)](https://modrinth.com/mod/create-broken-bad-fabric) – Expands the Create mod with chemistry-inspired mechanics, integrating new automation possibilities and themed contraptions.
+- [Crafting Recipes for Create](https://modrinth.com/mod/crafting-recipes-for-create) – Adds alternative crafting recipes for various Create mod components, improving accessibility and integration with other gameplay mechanics.
+- [Create Engineer](https://modrinth.com/mod/create-engineer) – Expands the Create mod with new tools, machines, and engineering mechanics, enhancing automation and industrial gameplay.
+- [Create: Enchantable Machinery](https://modrinth.com/mod/create-enchantable-machinery) – Adds the ability to enchant Create mod machines, introducing new mechanics for enhancing automation efficiency and functionality.
+- [Create: Food](https://modrinth.com/mod/create-food) – Expands the Create mod with new food items, cooking mechanics, and automation options for food production.
+- [Create: Cobblestone](https://modrinth.com/mod/create-cobblestone) – Adds cobblestone generation and automation mechanics to the Create mod, making resource collection more efficient.
+
 
 ### 🌱 Farming, Storage & Automation
 
@@ -94,6 +103,7 @@ Add new mobs, animals, and environmental features.
 - [Wildlife](https://modrinth.com/mod/wildlife-fabric) – Introduces various wildlife creatures.
 - [Towns and Towers](https://modrinth.com/mod/towns-and-towers) – Revamps and expands village and pillager structures with new buildings, improved generation, and enhanced exploration opportunities.
 - [BetterEnd](https://modrinth.com/mod/betterend) – Overhauls the End dimension with new biomes, mobs, blocks, and improved exploration mechanics.
+- [BetterNether](https://modrinth.com/mod/betternether) – Enhances the Nether with new biomes, structures, plants, and materials, making the dimension more diverse and immersive.
 
 ### ✈️ Vehicles & Transportation
 
@@ -121,6 +131,7 @@ Improve user interface, tooltips, and game data visibility.
 - [Just Enough Items (JEI)](https://modrinth.com/mod/jei) – Item recipe and usage lookup.
 - [Just Enough Resources (JER)](https://modrinth.com/mod/just-enough-resources-jer) – Adds mob drops and resource info.
 - [Styled Player List](https://modrinth.com/mod/styledplayerlist) – Customizable player list UI.
+- [Trinkets](https://modrinth.com/mod/trinkets) – Adds a versatile accessory system with extra equipment slots, allowing players to wear and use a variety of trinkets for enhanced gameplay customization.
 
 ### 🧹 Convenience Features
 
@@ -133,6 +144,7 @@ Reduce grind and enhance everyday gameplay.
 - [Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone) – Fast leaf removal after chopping.
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols) - Add controller support.
 - [Sophisticated Backpacks (Unofficial Fabric port)](https://modrinth.com/mod/sophisticated-backpacks-(unoffical-fabric-port)) – Expanded backpack features.
+- [Spice of Fabric](https://modrinth.com/mod/spice-of-fabric) – Adds a diminishing returns mechanic to food, encouraging a more varied diet in Minecraft.
 - [Vein Mining](https://modrinth.com/mod/vein-mining) – Mine entire ore veins in one go.
 - [Villager In A Bucket](https://modrinth.com/mod/villager-in-a-bucket) – Portable villager transport.
 - [Villager Names](https://modrinth.com/mod/villager-names-serilum) – Randomized villager names.
@@ -145,6 +157,7 @@ Reduce grind and enhance everyday gameplay.
 Improve graphics, shaders, and visual fidelity. 
 
 - [Iris Shaders](https://modrinth.com/mod/iris) – Enhances Minecraft’s graphics by providing full support for shaders while maintaining performance.
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons) – Implements level-of-detail (LOD) rendering to extend Minecraft’s view distance far beyond vanilla limits, improving performance while maintaining immersive landscapes.
 
 ---
 

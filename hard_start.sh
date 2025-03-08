@@ -16,6 +16,17 @@ rm -rf "$MODS_DIR"/*
 # Define the list of mods with their download URLs and filenames
 declare -A mods
 mods=(
+    ["create_copper_and_zinc-1.6.0-fabric-1.20.1.jar"]="https://cdn.modrinth.com/data/aqYNR6rI/versions/zuDV9GQp/create_copper_and_zinc-1.6.0-fabric-1.20.1.jar"
+    ["createbb1.20.1.jar"]="https://cdn.modrinth.com/data/uIfluo9C/versions/5Ibh9a9W/createbb1.20.1.jar"
+    ["TradingPost-v8.0.2-1.20.1-Fabric.jar"]="https://cdn.modrinth.com/data/8pcjMDgj/versions/Xc6BwCFB/TradingPost-v8.0.2-1.20.1-Fabric.jar"
+    ["CreateFewMoreRecipes0.10.1.jar"]="https://cdn.modrinth.com/data/LL90W5sb/versions/zXdd2p0I/Create%20Few%20More%20Recipes%200.10.1.jar"
+    ["better-nether-9.0.10.jar"]="https://cdn.modrinth.com/data/MpzVLzy5/versions/IG7kgtJH/better-nether-9.0.10.jar"
+    ["create-engineers-1.0.1-fabric.jar"]="https://cdn.modrinth.com/data/rERbPs4i/versions/I55ckzGe/create-engineers-1.0.1-fabric.jar"
+    ["createenchantablemachinery-2.9.10-mc1.20.1-fabric.jar"]="https://cdn.modrinth.com/data/eqrvp4NK/versions/sxRQNUtz/createenchantablemachinery-2.9.10-mc1.20.1-fabric.jar"
+    ["create-food-1.20.1-1.1.8-fabric.jar"]="https://cdn.modrinth.com/data/4HnO3el1/versions/cPYiWF8A/create-food-1.20.1-1.1.8-fabric.jar"
+    ["trinkets-3.7.2.jar"]="https://cdn.modrinth.com/data/5aaWibi9/versions/AHxQGtuC/trinkets-3.7.2.jar"
+    ["createcobblestone-1.4.4fabric-1.20.1-95.jar"]="https://cdn.modrinth.com/data/ihpnEd80/versions/VEhxPD2J/createcobblestone-1.4.4%2Bfabric-1.20.1-95.jar"
+    ["spiceoffabric-1.6.2mc1.20.1.jar"]="https://cdn.modrinth.com/data/roxihOCb/versions/JQeNIIvU/spiceoffabric-1.6.2%2Bmc1.20.1.jar"
     ["packetfixer-fabric-2.0.0-1.19-to-1.20.1.jar"]="https://cdn.modrinth.com/data/c7m1mi73/versions/6jZ3HyVn/packetfixer-fabric-2.0.0-1.19-to-1.20.1.jar"
     ["cristellib-1.1.5-fabric.jar"]="https://cdn.modrinth.com/data/cl223EMc/versions/tBnivdbu/cristellib-1.1.5-fabric.jar"
     ["fastback-0.15.6-1.20.1-fabric.jar"]="https://cdn.modrinth.com/data/ZHKrK8Rp/versions/Q8JSGhdj/fastback-0.15.6%2B1.20.1-fabric.jar"
