@@ -6,30 +6,33 @@ Welcome to **Sneaky Walnut**, a **Minecraft 1.20.1** modpack designed for engine
 
 ## 🔧 How to Install the Modpack
 
-### **Step 1: Install Modrinth Launcher**
+### Step 1: Install A Launcher
 
+#### Prism
+1. Download and install **[Prism Launcher](https://prismlauncher.org/)** (a mod-friendly Minecraft launcher without ads).
+2. Sign into your **Minecraft account** within the Prism Launcher.
+
+#### Modrinth
 1. Download and install **[Modrinth](https://modrinth.com/app)** (a mod-friendly Minecraft launcher).
 2. Sign into your **Minecraft account** within the Modrinth app.
 
-### **Step 2: Download and Install the Modpack**
+> Also supported:
+> - **[MultiMC](https://multimc.org/)**
+> - **[ATLauncher](https://www.atlauncher.com/)**
+> - **[BakaXL](https://www.bakaxl.com/)**
+> - **[Superpack](https://github.com/Gaming32/Superpack/releases)**
+
+### Step 2: Download and Install the Modpack
 
 1. Download the latest modpack release (`Sneaky Walnut 1.0.0.mrpack`) from the **[Releases](https://github.com/mike-bros/sneaky-walnut/releases)** section.
-2. Open the `.mrpack` file with **Modrinth**, then launch the instance.
+   - _Prism_: Add New Instance > Import > Browse and Select the `.mrpack` file.
+   - _Modrinth_: Open the `.mrpack` file with **Modrinth**, then launch the instance.
+2. Ensure the modpack profile will launch with **minimum memory of 4GB**, _recommended 8GB-16GB_, depending on your system.
 3. The modpack **already includes the server IP**, but if needed, manually enter:
 
     ```
-    sneaky-walnut.lobster-mercat.ts.net:25566
+    bros.ninja
     ```
-
-
-### **Step 3: Join Tailscale (Required for Access)**
-
-Tailscale acts as a private VPN, allowing you to securely connect to the server.
-
-1. **Sign up for Tailscale** → [Sign Up Here](https://login.tailscale.com/start)
-2. **Download & Install Tailscale** → [Get Tailscale](https://tailscale.com/download)
-3. **Join the Sneaky Walnut Network** → [Accept the Invite](https://login.tailscale.com/admin/invite/oePyPsiYv1G)
-4. Make sure Tailscale is **running in the background** while playing.
 
 ---
 
@@ -37,30 +40,30 @@ Tailscale acts as a private VPN, allowing you to securely connect to the server.
 
 This modpack includes a selection of **Create Fabric**, **automation**, **quality-of-life**, and **performance mods** to enhance your experience.
 
-### **Core Gameplay Mods**
+### Core Gameplay Mods
 
 - **Create Fabric** – Mechanical contraptions, automation, and engineering.
 - **Tom's Simple Storage** – Scalable storage with sorting and automation.
 - **Custom Planes** – Fly custom-built planes in Minecraft.
 
-### **Quality of Life Improvements**
+### Quality of Life Improvements
 
 - **Automatic Doors** – Doors open automatically when players approach.
 - **Styled Player List** – Enhances player list UI with colors and info.
 - **Your Items Are Safe** – Prevents item de-spawning after death if the player has enough wood available.
 
-### **Navigation & Mapping**
+### Navigation & Mapping
 
-- **BlueMap** – A live 3D web-based map of the world.
+- **BlueMap** – A live 3D web-based map of the world. Access it at **[bros.ninja:8100](http://bros.ninja:8100)**.
 - **JourneyMap** – In-game minimap with waypoints and world tracking.
 
-### **Server Tools**
+### Server Tools
 
 - **Chunky** – Pre-generates world chunks to reduce lag.
 - **Essential Commands** – Adds commands like teleportation, home setting, and permissions.
 - **Fabric API** – Required for most Fabric mods.
 
-See the **full mod list** in the `mods.md` on GitHub. There is also a server-side bash script maintained there to help download the latest mods and run the server in case you are interested.
+See the **full mod list** in the `mods.md` on GitHub.
 
 ---
 
