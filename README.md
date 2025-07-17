@@ -1,10 +1,10 @@
-# Sneaky Walnut: A Modded Minecraft Adventure
+# 🥜 Sneaky Walnut: A Modded Minecraft Adventure
 
 Welcome to **Sneaky Walnut**, a **Minecraft 1.20.1** modpack designed for engineering, automation, and exploration. This pack blends performance-enhancing tools, immersive gameplay mods, and quality-of-life improvements to create the ultimate multiplayer experience.
 
 ---
 
-## 🔧 How to Install the Modpack
+## 🚀 How to Install the Modpack
 
 ### Step 1: Install A Launcher
 
@@ -36,34 +36,58 @@ Welcome to **Sneaky Walnut**, a **Minecraft 1.20.1** modpack designed for engine
 
 ---
 
-## 🎮 Mod List & Features
+## 📚 Mod List & Features
 
 This modpack includes a selection of **Create Fabric**, **automation**, **quality-of-life**, and **performance mods** to enhance your experience.
 
-### Core Gameplay Mods
+### ⚙️ Core Gameplay Mods
 
 - **Create Fabric** – Mechanical contraptions, automation, and engineering.
 - **Tom's Simple Storage** – Scalable storage with sorting and automation.
 - **Custom Planes** – Fly custom-built planes in Minecraft.
 
-### Quality of Life Improvements
+### ✨ Quality of Life Improvements
 
 - **Automatic Doors** – Doors open automatically when players approach.
 - **Styled Player List** – Enhances player list UI with colors and info.
 - **Your Items Are Safe** – Prevents item de-spawning after death if the player has enough wood available.
 
-### Navigation & Mapping
+### 🧭 Navigation & Mapping
 
 - **BlueMap** – A live 3D web-based map of the world. Access it at **[bros.ninja:8100](http://bros.ninja:8100)**.
 - **JourneyMap** – In-game minimap with waypoints and world tracking.
 
-### Server Tools
+### 🛠️ Server Tools
 
 - **Chunky** – Pre-generates world chunks to reduce lag.
 - **Essential Commands** – Adds commands like teleportation, home setting, and permissions.
 - **Fabric API** – Required for most Fabric mods.
 
 See the **full mod list** in the `mods.md` on GitHub.
+
+---
+
+## ⛔ Keybind Incompatibilities
+Some keybinds may conflict with the modpack. If you experience issues, check the following:
+
+- **Iris Shaders** | `R` – Used to reload shaders, suggestion is `;`.
+   - Conflicts with **Immersive Aircraft** Dismount keybind.
+- **Iris Shaders** | `O` - Shaderpack selection screen, suggestion is `'`.
+   - Conflicts with **Immersive Aircraft** Dismount keybind.
+- **Gameplay _(Tom's Simple Storage)_** | `B` - Open the terminal, supposedly used for remote access. Suggestion is set to `V`.
+   - Conflicts with **Immersive Aircraft** Rocket Boost keybind.
+- **JourneyMap** | `B` - Create waypoint, suggestion is to set to `]`.
+   - Conflicts with **Immersive Aircraft** Rocket Boost keybind.
+
+---
+
+## 🎮 Gamepad Controller Mod
+The gamepad controller mod is great, but if you don't need it and want to hide the annoying controller HUD, you can disable it in the mod settings:
+
+1. Open **Controls** in the game menu and click the controller icon next to "Key Binds...".
+   ![gamepad_disable_step_1.png](attachments/gamepad_disable_step_1.png)
+2. In MidnightControls Settings, click "Appearance Options" from the left, and to ensure "Enabled HUD" is toggled off.
+   ![gamepad_disable_step_2.png](attachments/gamepad_disable_step_2.png)
 
 ---
 
